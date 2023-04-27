@@ -1,0 +1,14 @@
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\bin\Debug\net6.0\MeetupApi.DAL.deps.json
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\bin\Debug\net6.0\MeetupApi.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\bin\Debug\net6.0\MeetupApi.DAL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\refint\MeetupApi.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\ref\MeetupApi.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\bin\Debug\net6.0\MeetupApi.DAL.runtimeconfig.json
+C:\Users\ymkaa\Documents\work\Modsen\Проект\MeetupApi\MeetupApi.DAL\obj\Debug\net6.0\MeetupApi.DAL.genruntimeconfig.cache
